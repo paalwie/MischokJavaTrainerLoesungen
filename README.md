@@ -36,3 +36,40 @@ public static String baueWortPyramide(String str) {
     }
     return returnWert;
 }
+```
+
+### Methodenaufrufe in der main
+
+```java
+// -> public static String baueWortPyramide(String str)
+//System.out.println(baueWortPyramide("Text"));
+```
+
+Durch Entfernen der Kommentarzeichen kann der Methodenaufruf getestet werden.
+
+---
+
+## Hinweis zur Nutzung
+
+- **Kommandozeilenausgaben** (`System.out.println`) dienen nur zum Testen und sind im Trainer selbst nicht notwendig.  
+- Die Tests können direkt in einer lokalen Entwicklungsumgebung (z. B. IntelliJ IDEA) ausgeführt werden.  
+- Der Trainer akzeptiert nur die reine Methodenimplementierung ohne Main-Methode und Testausgaben.
+
+---
+
+## Datei
+
+Nur der Source-Code (Main.java) befindet sich hier: https://github.com/paalwie/MischokJavaTrainerLoesungen/blob/main/Training/src/Main.java
+
+
+---
+
+## Autor
+
+**Patrick**  
+Version 1.0
+
+
+
+
+
